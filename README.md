@@ -25,11 +25,3 @@ To access the solutions, simply click on the links provided above for each task.
 ## Contributing
 
 As this repository is meant to showcase individual solutions, contributions are not expected. However, feedback and suggestions are always welcome! If you have any improvements or recommendations, feel free to open an issue or submit a pull request.
-
-## License
-
-The solutions provided in this repository are subject to the terms of the license agreement provided by Walmart and TheForage. Please refer to the LICENSE file for more information.
-
-## Acknowledgments
-
-I would like to express my gratitude to Walmart and TheForage for providing this valuable opportunity to gain practical experience in advanced software engineering. Their commitment to fostering learning and growth is highly appreciated.
